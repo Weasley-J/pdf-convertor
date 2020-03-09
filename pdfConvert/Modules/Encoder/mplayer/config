@@ -1,0 +1,4 @@
+# Write your default config options here!
+vo=direct3d
+framedrop=yes
+lavdopts=threads=2
